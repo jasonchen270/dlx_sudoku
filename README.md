@@ -31,5 +31,9 @@ cmake --build .
 ### Running
 
 ```bash
+# macOS
+open build/dlx_sudoku.app
+
+# Linux / Windows
 ./build/dlx_sudoku
 ```
