@@ -28,14 +28,8 @@ cmake ..
 cmake --build .
 ```
 
-On macOS this produces `dlx_sudoku.app`. On Linux/Windows it produces the `dlx_sudoku` executable.
-
 ### Running
 
 ```bash
-# macOS
-open build/dlx_sudoku.app
-
-# Linux / Windows
 ./build/dlx_sudoku
 ```
